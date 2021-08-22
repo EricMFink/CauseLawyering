@@ -1,10 +1,11 @@
 ---
 layout: outline
 date: 2020-05-28T01:00:00
+permalink: /outlines/Introduction/
 
 course: Civil Procedure 
 title: Introduction
-
+  
 ---
 
 # What is Civil Procedure?
