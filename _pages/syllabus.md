@@ -1,6 +1,5 @@
 ---
-layout: syllabus
-permalink: /syllabus/
+
 title: Syllabus
 author: Eric M. Fink
 affiliation: Elon Law School
@@ -11,14 +10,14 @@ address2: Greensboro, North Carolina 27401
 course: Cause Lawyering
 term: Winter 2022
 days: Mondays & Wednesdays, 3:30-5:50 pm
-room: Room 206
+room: Room 105
 
-output: 
+output:
   pdf_document:
     latex_engine: xelatex
     template: syllabus.tex
     path: /assets/pdf/syllabus.pdf
-  
+
 ---
 
 # Description
@@ -28,38 +27,38 @@ output:
 
 # Materials
 
-All assigned reading is available through the course website: [emfink.net/CauseLawyering](https://www.emfink.net/CauseLawyering). 
+All assigned reading is available through the course website: [emfink.net/CauseLawyering](https://www.emfink.net/CauseLawyering).
 
 
-# Policies 
+# Policies
 
 ### Grading
 
-Your grade for this course will be based on your participation in class discussion (50%) and a final project. There will be no final exam. 
+Your grade for this course will be based on your participation in class discussion (50%) and a final project (50%). There will be no final exam.
 
-### Class Discussion 
+### Class Discussion
 
-Each of you will be the lead discussant for one class session during the term. This will include (1) a short (2-3 pages) memo on the topic and assigned reading, and (2) questions for discussion. You should send a copy of your memo and questions to me at least 24 hours in advance, and I will share these with the rest of the class. I will circulate a sign-up sheet on the first day of class for you to choose which session you wish to lead.  
+Each student will be the lead discussant for one class session during the term. This will include (1) a short (2-3 pages) memo on the topic and assigned reading, and (2) questions for discussion.
 
-### Paper & Presentation 
+You should send a copy of your memo and questions to me at least 24 hours in advance, and I will share these with the rest of the class. I will circulate a sign-up sheet on the first day of class for you to choose which session you wish to lead.
 
-You will complete a final written project (approx. 10 pages[^f36b4353]) on one of these topics: 
+### Paper & Presentation
+
+Each student will complete a final written project (about 10 pages) on one of these topics:
 
 - Career/organizational study of a lawyer, law firm, or legal organization engaged in cause lawyering
 - Case study of a legal strategy associated with a social cause or movement
 - Proposed legal strategy (litigation, lobbying, or transactional) to advance a cause/movement
 
-[^f36b4353]: For students planning to fulfill the Upper Level Writing Requirement in this course, the final project must conform to the length, revision, and other provisions of the ULWR. Consult the Law School Student Handbook for details.  
+Each student will give an in-class presentation about their final project, during the last two weeks of the term (February 28, March 2, 7 & 9).
 
-Each student will give a brief (~15 minutes) in-class presentation about their final project, during the last two class sessions of the term (March 7 & 9). 
+You may use the final written project to satisfy the Upper Level Writing Requirement (ULWR). If you wish to do so, you must submit the [Upper Level Writing Requirement Intent Form](https://www.elon.edu/u/law/wp-content/uploads/sites/996/2020/01/Upper-Level-Writing-Intent-Form.pdf) to the Registrar, no later than the second week of the term. To satisfy the ULWR, your final written project must conform to the minimum length and other standards (see [Elon School of Law Student Handbook](https://www.elon.edu/u/law/wp-content/uploads/sites/996/2020/01/Student-Handbook-Final.pdf)). Once I have reviewed and approved your project for the ULWR, you must submit the [Completion Form](https://www.elon.edu/u/law/wp-content/uploads/sites/996/2020/01/Upper-Level-Writing-Completion-Form.pdf) to the Registrar.
 
-The completed final project will be due on the last day of the exam period. 
+The completed final project will be due on the last day of the Winter Term exam period.
 
-I will give you more information about the final project in class. 
+### Attendance
 
-### Attendance 
-
-Elon Law School has adopted the following attendance policy for all courses: 
+Elon Law School has adopted the following attendance policy for all courses:
 
 > The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences; imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class; and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
 >
@@ -67,80 +66,12 @@ Elon Law School has adopted the following attendance policy for all courses:
 
 Excessive absences (more than 2 classes) may result in a reduction of your grade.
 
-### Disability Accommodations 
+### Disability Accommodations
 
-For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html). 
+For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).
 
-### Honor Code 
+### Honor Code
 
-The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
+The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations.
 
 # Course Outline & Reading Assignments
-
-## Introduction: Social Movements & Cause Lawyers 
-
-- Cummings, Movement Lawyering 
-- Anna-Maria Marshall & Daniel Crocker Hale, Cause Lawyering, 10 Annual Review of Law & Social Science 301 (2014)
-- SOCIAL MOVEMENT THEORY OVERVIEW 
-
-## Practice Settings 
-
-- Bettina Brownstein, Private Practice & Cause Lawyering: A Practical & Ethical Guide, 31 Univ. of Arkansas Law Review 601 (2009)
-- Margareth Etienne, The Ethics of Cause Lawyering: An Empirical Examination of Criminal Defense Lawyers as Cause Lawyers, 95 Journal of Criminal Law & Criminology 1195 (2005)
-- David Luban, The Moral Complexity of Cause Lawyers Within the State, 81 Fordham Law Review 705 (2012)
-
-## Movement Goals & Client Interests
-
-- Gary Bellow & Jeanne Kettleson, From Ethics to Politics: Confronting Scarcity & Fairness in Public Interest Practice, 58 Boston Univ. Law Review 337 (1978)
-- Susan D. Carle, Race, Class, & Legal Ethics in the Early NAACP, 20 Law & History Review 97 (2002)
-- Derrick A. Bell, Jr., Serving Two Masters: Integration Ideals & Client Interests in School Desegregation Litigation, 85 Yale Law Journal 470 (1976)
-- Stephen Meili, Consumer Cause Lawyers in the United States: Lawyers for the Movement or a Movement Unto Themselves? (CLSM, 120-141)
-
-## Professional Identity
-
-- Sandra R. Levitsky, To Lead with Law: Reassessing the Influence of Legal Advocacy Organizations in Social Movements (CLSM, 145-163)
-- Anna-Maria Marshall, Social Movement Strategies & the Participatory Potential of Litigation (CLSM, 164-181)
-- Lynn Jones, The Haves Come Out Ahead: How Cause Lawyers Frame the Legal System for Movements (CLSM, 182-196)
-- Kevin R. Den Dulk, In Legal Culture, but Not of It: The Role of Cause Lawyers in Evangelical Legal Mobilization (CLSM, 197-219)
-- Corey S. Shdaimah, Intersecting Identities: Cause Lawyers as Legal Professionals & Social Movement Actors (CLSM, 220-245)
-
-## Legal Mobilization 
-
-- Michael McCann & Jeffrey Dudas, Retrenchment ... and Resurgence? Mapping the Changing Context of Movement Lawyering in the United States (CLSM, 37-59)
-- Thomas Hilbink, The Profession, the Grassroots & the Elite: Cause Lawyering for Civil Rights & Freedom in the Direct Action Era (CLSM, 60-83)
-
-## Litigation 
-
-- Scott Barclay & Shauna Fisher, Cause Lawyers in the First Wave of Same Sex Marriage Litigation (CLSM, 84-100)
-- Susan Bibler Coutin, Cause Lawyering & Political Advocacy: Movement Law on Behalf of Central American Refugees (CLSM, 101-119)
-
-### Case Study: The Scottsboro Boys
-
-- Charles H. Martin, [The international labor defense and black America](),
-26(2) Labor History 165 (1985) 
-- 
-- American Experience, [Scottsboro: An American Tragedy](https://www.pbs.org/wgbh/americanexperience/films/scottsboro/)
-	- [The Scottsboro Trial: A Timeline](https://www.pbs.org/wgbh/americanexperience/features/scottsboronine-black-youth-arrested-for-assault/)
-	- [Who Were the Scottsboro Boys?](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-boys-who-were-the-boys/)
-	- [A Fateful Journey](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-fateful-journey/)
-	- [The Scottsboro Defense Committee](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-defense-committee/)
-	- [The NAACP and the Scottsboro Trial](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-naacp/)
-	- [The International Labor Defense](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-international-labor-defense/)
-	- [The Scottsboro Defense Attorney](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-defense-attorney-samuel-leibowitz/)
-	- [The Scottsboro Accusers](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-ruby-bates-and-victoria-price/)
-	- [The Scottsboro Judges](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-biography-trial-judges/)
-
-## Legislative Reform
-
-- Kathleen M. Erskine & Judy Marblestone, The Movement Takes the Lead, The Role of Lawyers in the Struggle for a Living Wage in Santa Monica, California (CLSM, 249-276)
-- Jennifer Gordon, A Movement in the Wage of a New Law: The United Farm Workers & the California Agricultural Labor Relations Act (CLSM, 277-301)
-
-## Transactional Practice 
-
-- Scott L. Cummings, Mobilization Lawyering: Community Economic Development in the Figueroa Corridor (CLSM, 302-335)
-
-### Case Study: Debt Resistance 
-
-## Student Presentations
-
-
