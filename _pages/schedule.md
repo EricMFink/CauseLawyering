@@ -7,37 +7,37 @@ title: Schedule & Assignments
 
 ## Introduction
 
-### Cause Lawyering
+### Cause Lawyers & Social Movements
 
 Austin Sarat & Stuart Scheingold, What Cause Lawyers Do For, and To, Social Movements, in [Cause Lawyers & Social Movements](/assets/materials/readings/CauseLawyersSocialMovements.pdf), 1-34
 
-Scott L. Cummings, [Rethinking the Foundational Critiques of Lawyers in Social Movements](https://heinonline-org.ezproxy.elon.edu/HOL/Page?handle=hein.journals/flr85&id=2027&collection=usjournals&index=journals/flr), 85 Fordham Law Review (2017)
+Michael McCann, Law & Social Movements, in [The Blackwell Companion to Law & Society](https://ebookcentral-proquest-com.ezproxy.elon.edu/lib/elon-ebooks/detail.action?docID=351500), Chap. 27
 
-Anna-Maria Marshall & Daniel Crocker Hale, [Cause Lawyering](), 10 Annual Review of Law & Social Science 301 (2014)
+Sandra Levitsky, [Law and Social Movements: Old Debates and New Directions](/assets/materials/readings/Levitsky.pdf), in Austin Sarat & Patricia Ewick, eds. The Handbook of Law and Society 382-398 (2015)
 
-### Social Movement Theory
-
-David S. Meyer & Suzanne Staggenborg, [Movements, Countermovements, and the Structure of Political Opportunity](), 101 American Journal of Sociology 1628 (1996)
-
-David A. Snow, et al, [Frame Alignment Processes, Micromobilization, and Movement Participation](), 51 American Sociological Review 464 (1986)
-
-J. Craig Jenkins, [Resource Mobilization Theory and the Study of Social Movements](), 9 Annual Review of Sociology 527 (1983)
+Anna-Maria Marshall & Daniel Crocker Hale, [Cause Lawyering](https://www-annualreviews-org.ezproxy.elon.edu/doi/abs/10.1146/annurev-lawsocsci-102612-133932), 10 Annual Review of Law & Social Science 301 (2014)
 
 ## Cause Lawyers in the Legal Profession
 
-### Practice Settings
-
-_1. Non-Profit Legal Organizations_
+### Lawyers in Non-Profit Legal Organizations
 
 Catherine R. Albiston & Laura Beth Neilson, [Funding the Cause: How Public Interest Law Organizations Fund Their Activities and Why It Matters for Social Change](https://www-jstor-org.ezproxy.elon.edu/stable/24545700), 39 Law & Social Inquiry 62 (2014)
 
-Corey S. Shdaimah, [Not What They Expected: Legal Services Lawyers in the Eyes of Legal Service Clients](/assets/materials/readings/Shdaimah-NotWhatTheyExpected.pdf), in Austin Sarat & Stuart Scheingold, eds., The Cultural Lives of Cause Lawyers (DATE), 359-387
+Corey S. Shdaimah, [Not What They Expected: Legal Services Lawyers in the Eyes of Legal Service Clients](/assets/materials/readings/Shdaimah.pdf), in Austin Sarat & Stuart Scheingold, eds., The Cultural Lives of Cause Lawyers (2008), 359-387
 
-_2. Private Practice_
+[Mechanisms and Consequences of Professional Marginality: The Case of Poverty Lawyers Revisited](https://www-jstor-org.ezproxy.elon.edu/stable/41349663), 36 Law & Society Review 944 (2011)
 
-Bettina Brownstein, [Private Practice & Cause Lawyering: A Practical & Ethical Guide](), 31 Univ. of Arkansas Law Review 601 (2009)
+Paul Kaplan, [Forgetting the Future: Cause Lawyering and the Work of California Capital Trial Defenders](https://journals-sagepub-com.ezproxy.elon.edu/doi/pdf/10.1177/1362480609353160)
 
-_Government Agencies_
+### Cause Lawyering in Private Practice_
+
+Bettina Brownstein, [Private Practice & Cause Lawyering: A Practical & Ethical Guide](https://heinonline-org.ezproxy.elon.edu/HOL/Page?handle=hein.journals/ualr31&id=609&collection=usjournals&index=journals/ualr), 31 Univ. of Arkansas Law Review 601 (2009)
+
+Brenda Bratton Blom, [Cause Lawyering and Social Movements: Can Solo and Small Firm Practitioners Anchor Social Movements?](/assets/materials/readings/Blom.pdf), in Austin Sarat, ed. at 119
+
+Louise Trubek & M. Elizabeth Kransberger, [Critical Lawyers: Social Justice and the Structures of Private Practice](https://ebookcentral-proquest-com.ezproxy.elon.edu/lib/elon-ebooks/reader.action?docID=4701078&ppg=212), Chap. 7 in Sarat & Abel, eds., Cause Lawyering: Political Commitments and Professional Responsibilities (1998)
+
+### Government Lawyers as Cause Lawyers
 
 Douglas NeJaime, [Cause Lawyers Inside the State](https://heinonline-org.ezproxy.elon.edu/HOL/Page?handle=hein.journals/flr81&id=669&collection=usjournals&index=journals/flr), 81 Fordham Law Review 649 (2012)
 
@@ -73,19 +73,41 @@ Susan Carle and Scott Cummings, [A Reflection on the Ethics of Movement Lawyerin
 
 Susan Carle, [Ethics and the History of Social Movement Lawyering](https://repository.law.wisc.edu/s/uwlaw/media/300123), 2018 Wis. L. Rev. Forward 12 (2018)
 
+Susan Carle, [Race, Class, and Legal Ethics in the Early NAACP (1910–1920)](https://www-jstor-org.ezproxy.elon.edu/stable/744156), 20 Law & History Review 97 (2002)
+
+Susan Carle, [From Buchanan to Button: Legal Ethics and the NAACP (Part II)](https://chicagounbound.uchicago.edu/roundtable/vol8/iss2/3/), 8 University of Chicago Law School Roundtable 281 (2001)
+
 Margareth Etienne, [The Ethics of Cause Lawyering: An Empirical Examination of Criminal Defense Lawyers as Cause Lawyers](https://www-jstor-org.ezproxy.elon.edu/stable/3491403), 95 Journal of Criminal Law & Criminology 1195 (2005)
 
 ## Lawyers & Social Movements
 
 ### Legal Mobilization
 
-Sandra R. Levitsky, To Lead with Law: Reassessing the Influence of Legal Advocacy Organizations in Social Movements, in [Cause Lawyers & Social Movements](/assets/materials/readings/CauseLawyersSocialMovements.pdf), 145-163
+David A. Snow, et al, [Frame Alignment Processes, Micromobilization, and Movement Participation](https://www-jstor-org.ezproxy.elon.edu/stable/2095581), 51 American Sociological Review 464 (1986)
+
+J. Craig Jenkins, [Resource Mobilization Theory and the Study of Social Movements](https://www-jstor-org.ezproxy.elon.edu/stable/2946077), 9 Annual Review of Sociology 527 (1983)
 
 Lynn Jones, The Haves Come Out Ahead: How Cause Lawyers Frame the Legal System for Movements, in [Cause Lawyers & Social Movements](/assets/materials/readings/CauseLawyersSocialMovements.pdf), 182-196
 
 Mark Kessler, [Legal Mobilization for Social Reform: Power and the Politics of Agenda Setting](https://www-jstor-org.ezproxy.elon.edu/stable/3053789), 24 Law and Society Review 121 (1990)
 
+Kenneth Andres & Kay Jowers, [Lawyers and Embedded Legal Activity in the Southern Civil Rights Movement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3113861), 40 Law & Policy 10 (2018)
+
+Francesca Polletta, [The Structural Context of Novel Rights Claims: Rights Innovation in the Southern Civil Rights Movement, 1961-1966](https://www-jstor-org.ezproxy.elon.edu/stable/3115087), 34 Law and Society Review 376 (2000)
+
+### CRITIQUES
+
+Sandra R. Levitsky, To Lead with Law: Reassessing the Influence of Legal Advocacy Organizations in Social Movements, in [Cause Lawyers & Social Movements](/assets/materials/readings/CauseLawyersSocialMovements.pdf), 145-163
+
+Thomas Hilbink, The Profession, the Grassroots & the Elite: Cause Lawyering for Civil Rights & Freedom in the Direct Action Era, in [Cause Lawyers & Social Movements](/assets/materials/readings/CauseLawyersSocialMovements.pdf), 60-83
+
+Tifanei Ressl-Moyer, Pilar Gonzalez Morales & Jaqueline Aranda Osorno, [Movement Lawyering During a Crisis: How the Legal System Exploits the Labor of Activists and Undermines Movements](https://academicworks.cuny.edu/clr/vol24/iss1/6/), 24 CUNY Law Review 91 (2021)
+
+Scott L. Cummings, [Rethinking the Foundational Critiques of Lawyers in Social Movements](https://heinonline-org.ezproxy.elon.edu/HOL/Page?handle=hein.journals/flr85&id=2027&collection=usjournals&index=journals/flr), 85 Fordham Law Review (2017)
+
 ### Movements & Counter-Movements
+
+David S. Meyer & Suzanne Staggenborg, [Movements, Countermovements, and the Structure of Political Opportunity](https://www-jstor-org.ezproxy.elon.edu/stable/2782114), 101 American Journal of Sociology 1628 (1996)
 
 Francisco Valdes, Culture, "_Kulturkampf_", and Beyond: The Antidiscrimination Principle under the Jurisprudence of Backlash, in [The Blackwell Companion to Law & Society](https://ebookcentral-proquest-com.ezproxy.elon.edu/lib/elon-ebooks/detail.action?docID=351500), Chap. 15
 
@@ -121,27 +143,9 @@ Melinda D. Kane, [You've Won, Now What? The Influence of Legal Change on Gay and
 
 ## Case Studies
 
-### Legal Mobilization & Legal Ethics in the the 20th Century Civil Rights Movement
-
-1. Legal Mobilization
-
-Kenneth Andres & Kay Jowers, [Lawyers and Embedded Legal Activity in the Southern Civil Rights Movement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3113861), 40 Law & Policy 10 (2018)
-
-Francesca Polletta, [The Structural Context of Novel Rights Claims: Rights Innovation in the Southern Civil Rights Movement, 1961-1966](https://www-jstor-org.ezproxy.elon.edu/stable/3115087), 34 Law and Society Review 376 (2000)
-
-Thomas Hilbink, The Profession, the Grassroots & the Elite: Cause Lawyering for Civil Rights & Freedom in the Direct Action Era, in [Cause Lawyers & Social Movements](/assets/materials/readings/CauseLawyersSocialMovements.pdf), 60-83
-
-Scott Baker & Gary Biglaiser, [A Model of Cause Lawyering](), 43 Journal of Legal Studies 37 (2014)
-
-Susan Carle, [Race, Class, and Legal Ethics in the Early NAACP (1910–1920)](https://www-jstor-org.ezproxy.elon.edu/stable/744156), 20 Law & History Review 97 (2002)
-
-Susan Carle, [From Buchanan to Button: Legal Ethics and the NAACP (Part II)](https://chicagounbound.uchicago.edu/roundtable/vol8/iss2/3/), 8 University of Chicago Law School Roundtable 281 (2001)
-
 ### Anti-Lynching
 
-William F. Pinar, [The NAACP and the Struggle for Anti-Lynching Legislation, 1897-1917](https://www-jstor-org.ezproxy.elon.edu/stable/42977760?seq=1#metadata_info_tab_contents), 163 Coounterpoints 623 (2001)
-
-William F. Pinar, [The NAACP and the Struggle for Anti-Lynching Federal Legislation, 1917-1950](https://www-jstor-org.ezproxy.elon.edu/stable/42977761?seq=1#metadata_info_tab_contents), 163 Coounterpoints 683 (2001)
+Megan Ming Francis, [The Price of Civil Rights: Black Lives, White Funding, and Movement Capture](https://onlinelibrary-wiley-com.ezproxy.elon.edu/doi/10.1111/lasr.12384), 53 Law & Society Review 275 (2019)
 
 William F. Pinar, [The Communist Party/NAACP Rivalry in the Trials of the Scottsboro Nine](https://www-jstor-org.ezproxy.elon.edu/stable/42977762), 163 Counterpoints 753 (2001)
 
@@ -160,13 +164,29 @@ American Experience, [Scottsboro: An American Tragedy](https://www.pbs.org/wgbh/
 
 ### School Desegregation
 
+Scott Baker & Gary Biglaiser, [A Model of Cause Lawyering](https://www-jstor-org.ezproxy.elon.edu/stable/10.1086/673530), 43 Journal of Legal Studies 37 (2014)
+
 Derrick A. Bell, Jr., [Serving Two Masters: Integration Ideals & Client Interests in School Desegregation Litigation](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/15715/37_85YaleLJ470_March1976_.pdf?sequence=2&isAllowed=y), 85 Yale Law Journal 470 (1976)
+
+Gerald Rosenberg, [The Hollow Hope: Can Courts Bring About Social Change?](/assets/materials/readings/HollowHope.pdf) 42-57 (2d ed. 2008)
+
+
+Erika Frankenberg, [What school segregation looks like in the US today, in 4 charts](https://theconversation.com/what-school-segregation-looks-like-in-the-us-today-in-4-charts-120061), The Conversation (July 19, 2019)
 
 ### Housing Discrimination
 
 Jeffrey D. Gonda, [Unjust Deeds: The Restrictive Covenant Cases and the Making of the Civil Rights Movement](https://www-jstor-org.ezproxy.elon.edu/stable/10.5149/9781469625461_gonda) (2015). Read Introduction (Restrictive Covenants, Housing Rights, and the Civil Rights Movement); Chap. 2 (Courtrooms: Local Lawyers and Legal Activism); Chap. 3 (The NAACP: National Leadership and Housing Desegregation); Chap. 5 (Failures and Foundations: The Covenant Cases and Postwar Black Freedom Struggles)
 
+Richard Rothstein, [The Color of Law: A Forgotten History of How Our Government Segregated America](/assets/materials/readings/ColorOfLaw.pdf), Chap. 5 (2017)
 
+Gerald Rosenberg, [The Hollow Hope: Can Courts Bring About Social Change?](/assets/materials/readings/HollowHope.pdf) 67-70 (2d ed. 2008)
+
+Robert K. Nelson and Edward L. Ayers, eds., American Panorama, University of Richmond Digital Scholarship Lab
+
+- Mapping Inequality: Redlining in New Deal America, [Greensboro, NC](https://dsl.richmond.edu/panorama/redlining/#loc=12/36.082/-79.881&city=greensboro-nc)
+- Renewing Indquality: Urban Renewal, Family Displacements, and Race, 1955-1966 [Greensboron NC](https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram&city=greensboroNC&loc=13/36.0620/-79.7910)
+
+Cheryl Thompson, [Racial covenants, a relic of the past, are still on the books across the country](https://www.npr.org/2021/11/17/1049052531/racial-covenants-housing-discrimination), National Public Radio (Nov. 17, 2021)
 
 ### LGBT Rights
 
@@ -175,7 +195,6 @@ Scott Barclay & Shauna Fisher, Cause Lawyers in the First Wave of Same Sex Marri
 Thomas M. Keck, [Beyond Backlash: Assessing the Impact of Judicial Decisions on LGBT Rights](https://www-jstor-org.ezproxy.elon.edu/stable/29734174), 43 Law & Society Review 151 (2009)
 
 Dorf & Tarrow, [Strange Bedfellows: How an Anticipatory Countermovement Brought Same-Sex Marriage into the Public Arena](https://www-jstor-org.ezproxy.elon.edu/stable/24545818), 39 Law & Social Inquiry 449 (2014)
-
 
 ### Immigration
 
@@ -189,7 +208,7 @@ Bill Ong Hing, [Contemplating a Rebellious Approach to Representing Unaccompanie
 
 Jennifer Woodward, [Making Rights Work: Legal Mobilization at the Agency Level](https://www-jstor-org.ezproxy.elon.edu/stable/43670531), 49 Law & Society Review 691 (2015)
 
-Susan Carle, [A Social Movement History of Title VII Disparate Impact Analysis], 63 Florida Law Review 261 2011)
+Susan Carle, [A Social Movement History of Title VII Disparate Impact Analysis](https://heinonline-org.ezproxy.elon.edu/HOL/Page?handle=hein.journals/uflr63&id=257&collection=usjournals&index=journals/uflr), 63 Florida Law Review 251 (2011)
 
 Paul Burstein, [Legal Mobilization as a Social Movement Tactic: The Struggle for Equal Employment Opportunity](https://www-jstor-org.ezproxy.elon.edu/stable/2781340), 96 American Journal of Sociology 120 (1991)
 
