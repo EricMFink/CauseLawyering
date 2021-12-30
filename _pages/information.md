@@ -22,9 +22,9 @@ Your grade for this course will be based on your participation in class discussi
 
 ### Class Discussion
 
-Each student will be the lead discussant for one class session during the term. This will include (1) a short (2-3 pages) memo on the topic and assigned reading, and (2) questions for discussion.
+Each student will be the lead discussant for one class session during the term. This will include a short (2-3 pages) memo summarizing the assigned reading and suggesting questions for discussion.
 
-You should send a copy of your memo and questions to me at least 24 hours in advance, and I will share these with the rest of the class. I will circulate a sign-up sheet on the first day of class for you to choose which session you wish to lead.
+You should a copy of your memo to me by email, no later than 9:00 am on the day of class. at least 24 hours in advance. I will share the memo with the rest of the class.
 
 ### Paper & Presentation
 
@@ -34,7 +34,7 @@ Each student will complete a final written project (about 10 pages) on one of th
 - Case study of a legal strategy associated with a social cause or movement
 - Proposed legal strategy (litigation, lobbying, or transactional) to advance a cause/movement
 
-Each student will give an in-class presentation about their final project, during the last two weeks of the term (February 28, March 2, 7 & 9).
+Each student will give a presentation (~15-20 minutes) about their final project, during the last three class sessions of the term  (March 2, 7 & 9).
 
 You may use the final written project to satisfy the Upper Level Writing Requirement (ULWR). If you wish to do so, you must submit the [Upper Level Writing Requirement Intent Form](https://www.elon.edu/u/law/wp-content/uploads/sites/996/2020/01/Upper-Level-Writing-Intent-Form.pdf) to the Registrar, no later than the second week of the term. To satisfy the ULWR, your final written project must conform to the minimum length and other standards (see [Elon School of Law Student Handbook](https://www.elon.edu/u/law/wp-content/uploads/sites/996/2020/01/Student-Handbook-Final.pdf)). Once I have reviewed and approved your project for the ULWR, you must submit the [Completion Form](https://www.elon.edu/u/law/wp-content/uploads/sites/996/2020/01/Upper-Level-Writing-Completion-Form.pdf) to the Registrar.
 
