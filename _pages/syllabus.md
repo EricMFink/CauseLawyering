@@ -20,11 +20,9 @@ output:
 
 ---
 
-
 # Description
 
 "Cause lawyering" refers to the practice of law as a means of achieving social change or advancing social movement aims. This course examines cause lawyering in various practice settings (non-profit organizations, government agencies, private practice) and various types of legal work (litigation, legislative & policy advocacy, transactional work), focusing on the distinctive strategic, ethical, and other professional issues in cause lawyering. The course is primarily designed as an accompanying course for students undertaking a residency-in-practice with a public interest law organization. Other students may also take the course, subject to availability.
-
 
 # Materials
 
@@ -241,15 +239,16 @@ William F. Pinar, [The Communist Party/NAACP Rivalry in the Trials of the Scotts
 Charles H. Martin, [The International Labor Defense and Black America](https://www-tandfonline-com.ezproxy.elon.edu/doi/abs/10.1080/00236568508584794), 26 Labor History 165 (1985)
 
 American Experience, [Scottsboro: An American Tragedy](https://www.pbs.org/wgbh/americanexperience/films/scottsboro/)
-    - [The Scottsboro Trial: A Timeline](https://www.pbs.org/wgbh/americanexperience/features/scottsboronine-black-youth-arrested-for-assault/)
-    - [Who Were the Scottsboro Boys?](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-boys-who-were-the-boys/)
-    - [A Fateful Journey](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-fateful-journey/)
-    - [The Scottsboro Defense Committee](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-defense-committee/)
-    - [The NAACP and the Scottsboro Trial](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-naacp/)
-    - [The International Labor Defense](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-international-labor-defense/)
-    - [The Scottsboro Defense Attorney](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-defense-attorney-samuel-leibowitz/)
-    - [The Scottsboro Accusers](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-ruby-bates-and-victoria-price/)
-    - [The Scottsboro Judges](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-biography-trial-judges/)
+
+- [The Scottsboro Trial: A Timeline](https://www.pbs.org/wgbh/americanexperience/features/scottsboronine-black-youth-arrested-for-assault/)
+- [Who Were the Scottsboro Boys?](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-boys-who-were-the-boys/)
+- [A Fateful Journey](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-fateful-journey/)
+- [The Scottsboro Defense Committee](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-defense-committee/)
+- [The NAACP and the Scottsboro Trial](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-naacp/)
+- [The International Labor Defense](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-international-labor-defense/)
+- [The Scottsboro Defense Attorney](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-defense-attorney-samuel-leibowitz/)
+- [The Scottsboro Accusers](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-ruby-bates-and-victoria-price/)
+- [The Scottsboro Judges](https://www.pbs.org/wgbh/americanexperience/features/scottsboro-biography-trial-judges/)
 
 [Norris v. Alabama](https://scholar.google.com/scholar_case?case=4678767685714465900), 294 U.S. 587 (1935)
 
@@ -275,11 +274,16 @@ Erika Frankenberg, [What school segregation looks like in the US today, in 4 cha
 
 ### Shelley v. Kraemer
 
-Jeffrey D. Gonda, [Unjust Deeds: The Restrictive Covenant Cases and the Making of the Civil Rights Movement](https://www-jstor-org.ezproxy.elon.edu/stable/10.5149/9781469625461_gonda) (2015). Read Introduction (Restrictive Covenants, Housing Rights, and the Civil Rights Movement); Chap. 2 (Courtrooms: Local Lawyers and Legal Activism); Chap. 3 (The NAACP: National Leadership and Housing Desegregation); Chap. 5 (Failures and Foundations: The Covenant Cases and Postwar Black Freedom Struggles)
+Jeffrey D. Gonda, [Unjust Deeds: The Restrictive Covenant Cases and the Making of the Civil Rights Movement](https://www-jstor-org.ezproxy.elon.edu/stable/10.5149/9781469625461_gonda) (2015).
+
+- Introduction—Restrictive Covenants, Housing Rights, and the Civil Rights Movement
+- Chap. 2—Courtrooms: Local Lawyers and Legal Activism
+- Chap. 3—The NAACP: National Leadership and Housing Desegregation
+- Chap. 5—Failures and Foundations: The Covenant Cases and Postwar Black Freedom Struggles
 
 [Shelley v. Kraemer](https://scholar.google.com/scholar_case?case=12732018998507979172), 334 U.S. 1 (1948)
 
-Robert K. Nelson and Edward L. Ayers, eds., American Panorama, University of Richmond Digital Scholarship Lab
+Robert K. Nelson and Edward L. Ayers, eds., [American Panorama: An Atlas of United States History](https://dsl.richmond.edu/panorama/), University of Richmond Digital Scholarship Lab
 
 - Mapping Inequality: Redlining in New Deal America, [Greensboro, NC](https://dsl.richmond.edu/panorama/redlining/#loc=12/36.082/-79.881&city=greensboro-nc)
 - Renewing Indquality: Urban Renewal, Family Displacements, and Race, 1955-1966 [Greensboron NC](https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram&city=greensboroNC&loc=13/36.0620/-79.7910)
