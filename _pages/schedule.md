@@ -109,7 +109,7 @@ Deborah Cantrell, [Sensational Reports: The Ethical Duty of Cause Lawyers to be 
 
 Lynn Jones, The Haves Come Out Ahead: How Cause Lawyers Frame the Legal System for Movements, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 182 (2006)
 
-Kenneth Andres & Kay Jowers, [Lawyers and Embedded Legal Activity in the Southern Civil Rights Movement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3113861), 40 Law & Policy 10 (2018)
+Kenneth Andrews & Kay Jowers, [Lawyers and Embedded Legal Activity in the Southern Civil Rights Movement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3113861), 40 Law & Policy 10 (2018)
 
 Francesca Polletta, [The Structural Context of Novel Rights Claims: Rights Innovation in the Southern Civil Rights Movement, 1961-1966](https://www-jstor-org.ezproxy.elon.edu/stable/3115087), 34 Law and Society Review 376 (2000)
 
@@ -135,7 +135,7 @@ Michael McCann & Jeffrey Dudas, Retrenchment ... and Resurgence? Mapping the Cha
 
 Thomas M. Keck, [Beyond Backlash: Assessing the Impact of Judicial Decisions on LGBT Rights](https://www-jstor-org.ezproxy.elon.edu/stable/29734174), 43 Law & Society Review 151 (2009)
 
-Dorf & Tarrow, [Strange Bedfellows: How an Anticipatory Countermovement Brought Same-Sex Marriage into the Public Arena](https://www-jstor-org.ezproxy.elon.edu/stable/24545818), 39 Law & Social Inquiry 449 (2014)
+Michael Dorf & Sidney Tarrow, [Strange Bedfellows: How an Anticipatory Countermovement Brought Same-Sex Marriage into the Public Arena](https://www-jstor-org.ezproxy.elon.edu/stable/24545818), 39 Law & Social Inquiry 449 (2014)
 
 #### 14 February
 
