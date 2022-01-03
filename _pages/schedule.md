@@ -165,7 +165,7 @@ Scott L. Cummings, [Rethinking the Foundational Critiques of Lawyers in Social M
 
 ### The Scottsboro Trials
 
-Robin D.G. Kelley, [In the Heart of Trouble: Race, Sex, & the ILD]((https://www.emfink.net/CauseLawyering/assets/materials/readings/Kelley_1990_Chap4.pdf), Chap. 4 in Hammer & Hoe: Alabama Communists During the Great Depression (1990)
+Robin D.G. Kelley, [In the Heart of Trouble: Race, Sex, & the ILD](https://www.emfink.net/CauseLawyering/assets/materials/readings/Kelley_1990_Chap4.pdf), Chap. 4 in Hammer & Hoe: Alabama Communists During the Great Depression (1990)
 
 William F. Pinar, [The Communist Party/NAACP Rivalry in the Trials of the Scottsboro Nine](https://www-jstor-org.ezproxy.elon.edu/stable/42977762), 163 Counterpoints 753 (2001)
 
