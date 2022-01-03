@@ -72,7 +72,6 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations.
 
-# Schedule & Assignments
 
 ## Introduction
 
@@ -144,11 +143,11 @@ Leila Kawar, [Legal Mobilization on the Terrain of the State: Creating a Field o
 
 ### Professional Identity
 
-Stephen Meili, Consumer Cause Lawyers in the United States: Lawyers for the Movement or a Movement Unto Themselves?, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 120 (2006)
+Stephen Meili, [Consumer Cause Lawyers in the United States: Lawyers for the Movement or a Movement Unto Themselves?](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements 120 (2006)
 
-Kevin R. Den Dulk, In Legal Culture, but Not of It: The Role of Cause Lawyers in Evangelical Legal Mobilization, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 197 (2006)
+Kevin R. Den Dulk, [In Legal Culture, but Not of It: The Role of Cause Lawyers in Evangelical Legal Mobilization](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements 197 (2006)
 
-Corey S. Shdaimah, Intersecting Identities: Cause Lawyers as Legal Professionals & Social Movement Actors, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 220 (2006)
+Corey S. Shdaimah, [Intersecting Identities: Cause Lawyers as Legal Professionals & Social Movement Actors](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements] 220 (2006)
 
 John Heinz, Ann Southworth, & Anthony Paik [Lawyers for Conservative Causes: Clients, Ideology, and Social Distance](https://www-jstor-org.ezproxy.elon.edu/stable/1555069), 37 Law & Society Review 5 (2003)
 
@@ -176,9 +175,9 @@ Deborah Cantrell, [Sensational Reports: The Ethical Duty of Cause Lawyers to be 
 
 ### Legal Mobilization
 
-Lynn Jones, The Haves Come Out Ahead: How Cause Lawyers Frame the Legal System for Movements, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 182 (2006)
+Lynn Jones, [The Haves Come Out Ahead: How Cause Lawyers Frame the Legal System for Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements 182 (2006)
 
-Kenneth Andres & Kay Jowers, [Lawyers and Embedded Legal Activity in the Southern Civil Rights Movement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3113861), 40 Law & Policy 10 (2018)
+Kenneth Andrews & Kay Jowers, [Lawyers and Embedded Legal Activity in the Southern Civil Rights Movement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3113861), 40 Law & Policy 10 (2018)
 
 Francesca Polletta, [The Structural Context of Novel Rights Claims: Rights Innovation in the Southern Civil Rights Movement, 1961-1966](https://www-jstor-org.ezproxy.elon.edu/stable/3115087), 34 Law and Society Review 376 (2000)
 
@@ -188,7 +187,7 @@ Jennifer Woodward, [Making Rights Work: Legal Mobilization at the Agency Level](
 
 ### Litigation as a Movement Strategy
 
-Anna-Maria Marshall, Social Movement Strategies & the Participatory Potential of Litigation, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 164 (2006)
+Anna-Maria Marshall, [Social Movement Strategies & the Participatory Potential of Litigation](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements 164 (2006)
 
 Scott Barclay & Daniel Chomsky, [How Do Cause Lawyers Decide When and Where to Litigate on Behalf of their Cause?](https://www-jstor-org.ezproxy.elon.edu/stable/43670448), 48 Law & Society Review 595 (2014)
 
@@ -198,13 +197,13 @@ Christos Boukalas, [Politics as Legal Action/Lawyers as Political Actors: Toward
 
 ### Movements & Counter-Movements
 
-Francisco Valdes, Culture, "_Kulturkampf_", and Beyond: The Antidiscrimination Principle under the Jurisprudence of Backlash, in [The Blackwell Companion to Law & Society](https://ebookcentral-proquest-com.ezproxy.elon.edu/lib/elon-ebooks/detail.action?docID=351500), Chap. 15
+Francisco Valdes, [Culture, "_Kulturkampf_", and Beyond: The Antidiscrimination Principle under the Jurisprudence of Backlash](https://ebookcentral-proquest-com.ezproxy.elon.edu/lib/elon-ebooks/detail.action?docID=351500), in The Blackwell Companion to Law & Society, Chap. 15
 
-Michael McCann & Jeffrey Dudas, Retrenchment ... and Resurgence? Mapping the Changing Context of Movement Lawyering in the United States, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 37 (2006)
+Michael McCann & Jeffrey Dudas, [Retrenchment ... and Resurgence? Mapping the Changing Context of Movement Lawyering in the United States](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements 37 (2006)
 
 Thomas M. Keck, [Beyond Backlash: Assessing the Impact of Judicial Decisions on LGBT Rights](https://www-jstor-org.ezproxy.elon.edu/stable/29734174), 43 Law & Society Review 151 (2009)
 
-Dorf & Tarrow, [Strange Bedfellows: How an Anticipatory Countermovement Brought Same-Sex Marriage into the Public Arena](https://www-jstor-org.ezproxy.elon.edu/stable/24545818), 39 Law & Social Inquiry 449 (2014)
+Michael Dorf & Sidney Tarrow, [Strange Bedfellows: How an Anticipatory Countermovement Brought Same-Sex Marriage into the Public Arena](https://www-jstor-org.ezproxy.elon.edu/stable/24545818), 39 Law & Social Inquiry 449 (2014)
 
 #### 14 February
 
@@ -220,9 +219,9 @@ Melinda D. Kane, [You've Won, Now What? The Influence of Legal Change on Gay and
 
 ### Critical Appraisals
 
-Sandra R. Levitsky, To Lead with Law: Reassessing the Influence of Legal Advocacy Organizations in Social Movements, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 145 (2006)
+Sandra R. Levitsky, [To Lead with Law: Reassessing the Influence of Legal Advocacy Organizations in Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements 145 (2006)
 
-Thomas Hilbink, The Profession, the Grassroots & the Elite: Cause Lawyering for Civil Rights & Freedom in the Direct Action Era, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 60 (2006)
+Thomas Hilbink, [The Profession, the Grassroots & the Elite: Cause Lawyering for Civil Rights & Freedom in the Direct Action Era](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements 60 (2006)
 
 Tifanei Ressl-Moyer, Pilar Gonzalez Morales & Jaqueline Aranda Osorno, [Movement Lawyering During a Crisis: How the Legal System Exploits the Labor of Activists and Undermines Movements](https://academicworks.cuny.edu/clr/vol24/iss1/6/), 24 CUNY Law Review 91 (2021)
 
@@ -286,7 +285,7 @@ Jeffrey D. Gonda, [Unjust Deeds: The Restrictive Covenant Cases and the Making o
 Robert K. Nelson and Edward L. Ayers, eds., [American Panorama: An Atlas of United States History](https://dsl.richmond.edu/panorama/), University of Richmond Digital Scholarship Lab
 
 - Mapping Inequality: Redlining in New Deal America, [Greensboro, NC](https://dsl.richmond.edu/panorama/redlining/#loc=12/36.082/-79.881&city=greensboro-nc)
-- Renewing Indquality: Urban Renewal, Family Displacements, and Race, 1955-1966 [Greensboron NC](https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram&city=greensboroNC&loc=13/36.0620/-79.7910)
+- Renewing Indquality: Urban Renewal, Family Displacements, and Race, 1955-1966 [Greensboro, NC](https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram&city=greensboroNC&loc=13/36.0620/-79.7910)
 
 Cheryl Thompson, [Racial covenants, a relic of the past, are still on the books across the country](https://www.npr.org/2021/11/17/1049052531/racial-covenants-housing-discrimination), National Public Radio (Nov. 17, 2021)
 
@@ -296,11 +295,13 @@ Cheryl Thompson, [Racial covenants, a relic of the past, are still on the books 
 
 Kenneth T. Andrews and Sarah Gaby, [Local Protest and Federal Policy: The Impact of the Civil Rights Movement on the 1964 Civil Rights Act](https://www-jstor-org.ezproxy.elon.edu/stable/43654404), 30 Sociological Forum 509 (2015)
 
-Kathleen M. Erskine and Judy Marblestone, The Movement Takes the Lead: The Role of Lawyers in the Struggle for a Living Wage in Santa Monica, California, in Sarat & Scheingold, eds., Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 249 (2006)
+Kathleen M. Erskine and Judy Marblestone, [The Movement Takes the Lead: The Role of Lawyers in the Struggle for a Living Wage in Santa Monica, California](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements, in Sarat & Scheingold, eds., Sarat & Scheingold, eds., Cause Lawyers & Social Movements 249 (2006)
 
-Jennifer Gordon, A Movement in the Wage of a New Law: The United Farm Workers & the California Agricultural Labor Relations Act, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), 277 (2006)
+Jennifer Gordon, [A Movement in the Wage of a New Law: The United Farm Workers & the California Agricultural Labor Relations Act](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements 277 (2006)
 
-Scott L. Cummings, Mobilization Lawyering: Community Economic Development in the Figueroa Corridor, in Sarat & Scheingold, eds., [Cause Lawyers & Social Movements](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf) 302 (2006)
+Aaron Porter, [Norris, Schmidt, Green, Harris, Higginbothom & Associates: The Sociological Import of Philadelphia Cause Lawyers](https://ebookcentral-proquest-com.ezproxy.elon.edu/lib/elon-ebooks/reader.action?docID=4701078&ppg=162), in Cause Lawyering: Political Commitments and Professional Responsibilities 151 (1998)
+
+Scott L. Cummings, [Mobilization Lawyering: Community Economic Development in the Figueroa Corridor](https://www.emfink.net/CauseLawyering/assets/materials/readings/CauseLawyersSocialMovements.pdf), in Sarat & Scheingold, eds., Cause Lawyers & Social Movements 302 (2006)
 
 ## Student Presentations
 
