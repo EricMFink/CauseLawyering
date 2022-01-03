@@ -38,7 +38,7 @@ Your grade for this course will be based on your participation in class discussi
 
 Each student will be the lead discussant for one class session during the term. This will include a short (2-3 pages) memo summarizing the assigned reading and suggesting questions for discussion.
 
-You should a copy of your memo to me by email, no later than 9:00 am on the day of class. at least 24 hours in advance. I will share the memo with the rest of the class.
+You should a copy of your memo to me by email, no later than 9:00 am on the day of class. I will share the memo with the rest of the class.
 
 ### Paper & Presentation
 
