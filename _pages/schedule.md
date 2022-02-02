@@ -175,11 +175,9 @@ Scott L. Cummings, [Rethinking the Foundational Critiques of Lawyers in Social M
 
 Robin D.G. Kelley, [In the Heart of Trouble: Race, Sex, & the ILD](https://www.emfink.net/CauseLawyering/assets/materials/readings/Kelley_1990_Chap4.pdf), Chap. 4 in Hammer & Hoe: Alabama Communists During the Great Depression (1990)
 
-William F. Pinar, [The Communist Party/NAACP Rivalry in the Trials of the Scottsboro Nine](https://www-jstor-org.ezproxy.elon.edu/stable/42977762), 163 Counterpoints 753 (2001)
-
 Charles H. Martin, [The International Labor Defense and Black America](https://www-tandfonline-com.ezproxy.elon.edu/doi/abs/10.1080/00236568508584794), 26 Labor History 165 (1985)
 
-Hollace Randsell, [Conflict Between Rival Organizations for Control of the Case]((https://www.emfink.net/CauseLawyering/assets/materials/readings/ACLU-ScottsboroReport.PDF), from Report on the Scottsboro, Ala. Trials, prepared for the ACLU (1931)
+Hollace Randsell, [Conflict Between Rival Organizations for Control of the Case](https://www.emfink.net/CauseLawyering/assets/materials/readings/ACLU-ScottsboroReport.pdf), from Report on the Scottsboro, Ala. Trials, prepared for the ACLU (1931)
 
 American Experience, [Scottsboro: An American Tragedy](https://www.pbs.org/wgbh/americanexperience/films/scottsboro/)
 
