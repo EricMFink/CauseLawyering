@@ -218,7 +218,7 @@ Erik Johnson, [Social Movement Size, Organizational Diversity and the Making of 
 
 Anne Bloom, [Practice Style and Successful Legal Mobilization](https://www-jstor-org.ezproxy.elon.edu/stable/27592234), Law & Contemporary Problems (2008)
 
-Melinda D. Kane, [You've Won, Now What? The Influence of Legal Change on Gay and Lesbian Mobilization, 1974-1999](https://www-jstor-org.ezproxy.elon.edu/stable/24754276), 51 Sociological Quarterly 255 (2010)
+Melinda D. Kane, [You've Won, Now What? The Influence of Legal Change on Gay and Lesbian Mobilization, 1974-1999](https://www.tandfonline.com/doi/full/10.1111/j.1533-8525.2010.01171.x), 51 Sociological Quarterly 255 (2010)
 
 Kenneth T. Andrews and Sarah Gaby, [Local Protest and Federal Policy: The Impact of the Civil Rights Movement on the 1964 Civil Rights Act](https://www-jstor-org.ezproxy.elon.edu/stable/43654404), 30 Sociological Forum 509 (2015)
 
